@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Poetry"
+    ]
+  ],
+  "legacy_uid": "0a65abff-9f15-9ae3-00e1-200e45c7c0cf",
+  "instructors": {
+    "content": [
+      "fd72ba8e-e137-478a-c070-54d1aa95b7be"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "33caac7f-dbfe-bff9-d7bd-dc019b7be41a",
+    "website": "21l-488-contemporary-literature-spring-2003"
+  },
+  "course_title": "Contemporary Literature",
+  "hide_download": true,
+  "course_description": "This semester, Contemporary Literature (21L.488) deals with Irish literature, a subject broad and deep. To achieve a manageable volume of study, the course focuses primarily on poetry and prose, at drama's expense, and on living writers, at the expense of their predecessors. Each class session follows a discussion format, often with students assigned to lead-off or summarize the day's topic.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.488",
+  "course_image_thumbnail": {
+    "content": "d0846734-d677-8b80-0443-3abb88a5f213",
+    "website": "21l-488-contemporary-literature-spring-2003"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "d7b4e6e8-266f-4093-b621-93c0800d82c5",
+  "site_short_id": "21l.488-spring-2003",
+  "site_url_path": "courses/21l-488-contemporary-literature-spring-2003",
+  "title": "Course Metadata"
+}
